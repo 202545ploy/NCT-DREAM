@@ -1,0 +1,99 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fname": "Mark ",
+      "lname": "Zuckerberg",
+      "email": "mark@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "0954721021",
+      "address": "USA"
+    },
+    {
+      "id": "2",
+      "fname": "Elon ",
+      "lname": "Musk",
+      "email": "elon@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "0254052574",
+      "address": "USA"
+    },
+    {
+      "id": "161c",
+      "fname": "Bill",
+      "lname": "Gate",
+      "email": "bill@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "4689656797",
+      "address": "USA"
+    },
+    {
+      "id": "9fdc",
+      "fname": "Jeff",
+      "lname": "Beszos",
+      "email": "jeff@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "0467979746",
+      "address": "USA"
+    },
+    {
+      "id": "17c0",
+      "fname": "Jack",
+      "lname": "ma",
+      "email": "jack@gmail.com",
+      "password": "12345678",
+      "password_confirmation": "12345678",
+      "phone": "7878787879",
+      "address": "china"
+    }
+  ],
+  "NCT DREAM": [
+    {
+      "id": 1,
+      "name": "Mark Lee",
+      "Hometown": "Vancouver, Canada",
+      "imageUrl": "https://i.pinimg.com/originals/ca/18/d4/ca18d4b1b6dff014d7cecb5a9eb24b38.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Huang Renjun",
+      "Hometown": "Jilin, People's Republic of China",
+      "imageUrl": "https://i.pinimg.com/originals/ab/fb/71/abfb713a4acbece5ffc43a2b7c7a6cde.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Lee Jeno",
+      "Hometown": "Incheon, South Korea",
+      "imageUrl": "https://i.pinimg.com/originals/96/7c/a6/967ca61767991f3a5aed866e8deb05ae.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Lee Haechan ",
+      "Hometown": "Seoul, South Korea",
+      "imageUrl": "https://i.pinimg.com/originals/0d/e8/04/0de80407f7e95555efcad98f2fc51a9b.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Na Jaemin",
+      "location": "Seoul, South Korea",
+      "imageUrl": "https://i.pinimg.com/originals/eb/32/a5/eb32a595bd31e004c5b1dc2b0af3a2db.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Zhong Chenle",
+      "location": "Shanghai, People's Republic of China",
+      "imageUrl": "https://i.pinimg.com/originals/76/8b/57/768b577513c9d3bbd0ee378fa6fc4b53.jpg"
+    },
+    {
+      "id": 7,
+      "name": " Park Ji Sung",
+      "location": "Seoul, South Korea",
+      "imageUrl": "https://i.pinimg.com/originals/31/55/26/315526ab690e98941d8a52bb9d3a8a44.jpg",
+      "label": "Agra, India"
+    }
+  ]
+}
